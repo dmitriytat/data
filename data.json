@@ -1,22 +1,32 @@
 [
   { 
     "data": 1, 
-    "value": 100 
+    "value": 100, 
+    "value2": 50, 
+    "value3": 50
   },
   { 
     "data": 2, 
-    "value": 200 
+    "value": 200, 
+    "value2": 150, 
+    "value3": 50 
   },
   { 
     "data": 3, 
-    "value": 300 
+    "value": 300, 
+    "value2": 250, 
+    "value3": 50 
   },
   { 
     "data": 4, 
-    "value": 0 
+    "value": 0, 
+    "value2": 350, 
+    "value3": 50 
   },
   { 
     "data": 5, 
-    "value": 500 
+    "value": 500, 
+    "value2": 450, 
+    "value3": 50 
   }
 ]
