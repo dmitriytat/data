@@ -2,21 +2,25 @@
   {
     "point": 0,
     "value": 100,
-    "value2": 150
+    "value2": 140,
+    "value3": 150
   },
   {
     "point": 1,
     "value": 50,
-    "value2": 10
+    "value2": 40,
+    "value3": 10
   },
   {
     "point": 2,
     "value": 200,
-    "value2": 170
+    "value2": 140,
+    "value3": 170
   },
   {
     "point": 3,
     "value": 100,
-    "value2": 300
+    "value2": 340,
+    "value3": 300
   }
 ]
