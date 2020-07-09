@@ -35,6 +35,13 @@
     "group": 10
   },
   {
+    "point": 5,
+    "value": 5,
+    "value2": 50,
+    "date": "2020-07-06",
+    "group": 10
+  },
+  {
     "point": 0,
     "value": 11,
     "value2": 110,
@@ -67,6 +74,13 @@
     "value": 14,
     "value2": 140,
     "date": "2020-07-05",
+    "group": 20
+  },
+  {
+    "point": 5,
+    "value": 15,
+    "value2": 150,
+    "date": "2020-07-06",
     "group": 20
   }
 ]
