@@ -1,4 +1,4 @@
 [
-  "one",
-  "two"
+  { value: "one" },
+  { value: "two" }
 ]
